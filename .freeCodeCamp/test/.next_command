@@ -31,3 +31,4 @@ clear
 bash questionnaire.sh
 which bash
 nano questionnaire.sh
+./questionnaire.sh
