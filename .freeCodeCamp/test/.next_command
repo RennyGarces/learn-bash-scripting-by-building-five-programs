@@ -32,3 +32,4 @@ bash questionnaire.sh
 which bash
 nano questionnaire.sh
 ./questionnaire.sh
+ls --color=auto -l
