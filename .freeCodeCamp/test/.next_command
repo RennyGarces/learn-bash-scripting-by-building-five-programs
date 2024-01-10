@@ -118,3 +118,4 @@ touch countdown.sh
 chmod +x countdown.sh
 nano questionnaire.sh
 nano countdown.sh
+./countdown.sh
