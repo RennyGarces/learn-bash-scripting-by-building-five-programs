@@ -113,3 +113,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 nano questionnaire.sh
 nano questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
+touch countdown.sh
