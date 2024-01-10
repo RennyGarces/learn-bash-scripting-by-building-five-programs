@@ -29,3 +29,4 @@ sh questionnaire.sh
 __vsc_prompt_cmd_original
 clear
 bash questionnaire.sh
+which bash
