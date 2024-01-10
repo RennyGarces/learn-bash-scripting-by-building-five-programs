@@ -30,3 +30,4 @@ __vsc_prompt_cmd_original
 clear
 bash questionnaire.sh
 which bash
+nano questionnaire.sh
