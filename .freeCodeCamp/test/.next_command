@@ -115,3 +115,4 @@ nano questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh
+chmod +x countdown.sh
