@@ -231,3 +231,5 @@ help [[ expression ]]
 help
 help test
 nano ./countdown.sh
+clear
+./countdown.sh 5
