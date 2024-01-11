@@ -257,3 +257,5 @@ ls --color=auto echo $?
 bad_command
 ls --color=auto bad_command
 ls --color=auto
+ls --color=auto -Y
+ls --color=auto -y
