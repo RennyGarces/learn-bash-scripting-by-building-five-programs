@@ -283,3 +283,4 @@ nano countdown.sh
 ./countdown.sh 0
 help
 nano countdown.sh
+./countdown.sh 10
