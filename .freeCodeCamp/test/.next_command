@@ -251,3 +251,9 @@ echo $?
 [[ 10 -ne 5 ]]
 clear
 bad_command
+ls --color=auto
+ls --color=auto bad_command
+ls --color=auto echo $?
+bad_command
+ls --color=auto bad_command
+ls --color=auto
