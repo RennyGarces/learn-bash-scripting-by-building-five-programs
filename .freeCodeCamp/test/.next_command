@@ -225,3 +225,6 @@ nano countdown.sh
 ./countdown.sh 5
 help if
 help
+help if
+help expression
+help [[ expression ]]
