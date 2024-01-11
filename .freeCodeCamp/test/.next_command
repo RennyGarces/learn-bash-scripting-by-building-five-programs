@@ -264,3 +264,11 @@ help test
 [[ -a countdown.sh ]]
 [[ -a bad_file.text ]]
 [[ -a bad_file.txt ]]
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+[[ -n ./countdown.sh ]]
+[[ -x countdown.sh ]]
