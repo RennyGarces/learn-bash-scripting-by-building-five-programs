@@ -218,3 +218,5 @@ clear
 arg1
 ./countdown.sh
 nano countdown.sh
+arg1
+./countdown.sh
