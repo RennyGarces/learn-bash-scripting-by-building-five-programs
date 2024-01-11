@@ -260,3 +260,5 @@ ls --color=auto
 ls --color=auto -Y
 ls --color=auto -y
 help test
+[[ -s countdown.sh ]]
+[[ -a countdown.sh ]]
