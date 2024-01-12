@@ -398,3 +398,5 @@ clear
 ./bingo.sh i=0
 ./bingo.sh I=0
 I=0
+echo I
+echo $I
