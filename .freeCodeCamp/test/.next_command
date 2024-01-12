@@ -393,3 +393,8 @@ nano bingo.sh
 ./bingo.sh
 nano bingo.sh
 ./bingo.sh
+clear
+./bingo.sh $1
+./bingo.sh i=0
+./bingo.sh I=0
+I=0
