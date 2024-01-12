@@ -389,3 +389,5 @@ declare -p
 echo $RANDOM
 clear
 nano bingo.sh
+./bingo.sh
+./bingo.sh
