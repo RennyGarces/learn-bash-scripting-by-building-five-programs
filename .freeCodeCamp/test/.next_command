@@ -402,3 +402,4 @@ echo I
 echo $I
 (( i++ ))
 (( I++ ))
+echo $I
