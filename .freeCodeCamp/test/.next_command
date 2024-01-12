@@ -403,3 +403,4 @@ echo $I
 (( i++ ))
 (( I++ ))
 echo $I
+help let
