@@ -375,3 +375,5 @@ nano countdown.sh
 ./countdown.sh 10
 clear
 touch bingo.sh
+chmod x+ bingo.sh
+chmod +x bingo.sh
