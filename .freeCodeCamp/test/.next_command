@@ -400,3 +400,5 @@ clear
 I=0
 echo I
 echo $I
+(( i++ ))
+(( I++ ))
