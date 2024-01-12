@@ -384,3 +384,5 @@ echo LANG
 echo LANG
 LANG
 echo $LANG
+declare -p. -p
+declare -p
