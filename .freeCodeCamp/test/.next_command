@@ -371,3 +371,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help while
 nano countdown.sh
 ./countdown.sh 5
+nano countdown.sh
+./countdown.sh 10
+clear
+touch bingo.sh
