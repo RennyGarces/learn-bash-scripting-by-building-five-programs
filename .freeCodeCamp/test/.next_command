@@ -426,3 +426,13 @@ J=$(( I - 6 ))
 echo j
 echo J
 echo $J
+clear
+echo J bingo.sh countdown.sh countdown.sh.save nano.save questionnaire.sh questionnaire.sh.save 5 + 25
+echo $J bingo.sh countdown.sh countdown.sh.save nano.save questionnaire.sh questionnaire.sh.save 5 + 25
+echo $J
+echo $J *5
+echo $J*5
+echo $J bingo.sh countdown.sh countdown.sh.save nano.save questionnaire.sh questionnaire.sh.save 5
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo $((J bingo.sh countdown.sh countdown.sh.save nano.save questionnaire.sh questionnaire.sh.save 5 + 25 ))
