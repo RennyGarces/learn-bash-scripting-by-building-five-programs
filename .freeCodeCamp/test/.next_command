@@ -423,3 +423,6 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo $I
 J=$(( I - 6 ))
+echo j
+echo J
+echo $J
