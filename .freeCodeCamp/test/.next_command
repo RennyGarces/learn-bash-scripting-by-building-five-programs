@@ -539,3 +539,20 @@ nano fortune.sh
 ./fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $ARR
+echo ARR
+echo* ARR
+echo$* ARR
+echo $*ARR
+echo $ARR
+echo bingo.sh countdown.sh countdown.sh.save fortune.sh nano.save questionnaire.sh questionnaire.sh.save $ARR
+echo @ $ARR
+echo ${ARR}
+echo ${ARR[0][1][2]}
+echo ${ARR[0]}
+echo ${ARR[0]}
+clear
+echo ${ARR[0]}
+${ARR[0]}
+echo ${ARR[0]}
+echo ${ARR[@]}
