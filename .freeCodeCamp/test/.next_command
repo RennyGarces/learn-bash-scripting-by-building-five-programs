@@ -559,3 +559,4 @@ echo ${ARR[@]}
 CLEAR
 clear
 declare -p ARR
+nano fortune.sh
