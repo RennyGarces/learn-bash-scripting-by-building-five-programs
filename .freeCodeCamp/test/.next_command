@@ -507,3 +507,7 @@ nano bingo.sh
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+chmodx+ fortune.sh
+chmod+x fortune.sh
+chmod+x fortune.sh
+chmod +x fortune.sh
