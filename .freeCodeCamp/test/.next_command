@@ -556,3 +556,6 @@ echo ${ARR[0]}
 ${ARR[0]}
 echo ${ARR[0]}
 echo ${ARR[@]}
+CLEAR
+clear
+declare -p ARR
