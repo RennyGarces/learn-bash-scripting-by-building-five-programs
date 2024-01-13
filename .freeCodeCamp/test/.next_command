@@ -439,3 +439,4 @@ echo $((J bingo.sh countdown.sh countdown.sh.save nano.save questionnaire.sh que
 echo J
 echo $J
 declare -p
+declare -p J
