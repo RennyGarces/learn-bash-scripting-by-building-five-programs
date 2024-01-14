@@ -687,3 +687,4 @@ chomd +x five.sh
 chmod +x five.sh
 clear
 nano five.sh
+./five.sh
