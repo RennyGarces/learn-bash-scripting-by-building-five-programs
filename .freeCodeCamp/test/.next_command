@@ -647,3 +647,4 @@ help [[
 clear
 echo $?[[ hello == hello ]]
 [[ hello == hello ]]
+[[ hello == world ]]
