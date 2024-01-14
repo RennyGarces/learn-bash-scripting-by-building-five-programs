@@ -691,3 +691,4 @@ nano five.sh
 nano five.sh
 clear
 ./five.sh
+help
