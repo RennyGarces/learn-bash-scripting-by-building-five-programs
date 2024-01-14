@@ -664,3 +664,6 @@ echo VAR
 echo $VAR
 echo [[ $VAR == 'hello world' ]]
 [[ $VAR == 'hello world' ]]
+[[ $VAR == \?$ ]]
+[[ $VAR == ^\?$ ]]
+[[ $VAR =~ \?$ ]]
