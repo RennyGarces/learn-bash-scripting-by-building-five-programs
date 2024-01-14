@@ -696,3 +696,4 @@ man type
 help type
 clear
 type echo
+type read
