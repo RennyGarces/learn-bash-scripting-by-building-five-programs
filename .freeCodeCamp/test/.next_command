@@ -644,3 +644,6 @@ nano fortune.sh
 ./fortune.sh
 nano fortune.sh
 help [[
+clear
+echo $?[[ hello == hello ]]
+[[ hello == hello ]]
