@@ -662,3 +662,5 @@ VAR='hello world'
 clear
 echo VAR
 echo $VAR
+echo [[ $VAR == 'hello world' ]]
+[[ $VAR == 'hello world' ]]
