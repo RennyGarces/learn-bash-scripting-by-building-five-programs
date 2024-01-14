@@ -667,3 +667,6 @@ echo [[ $VAR == 'hello world' ]]
 [[ $VAR == \?$ ]]
 [[ $VAR == ^\?$ ]]
 [[ $VAR =~ \?$ ]]
+__vsc_prompt_cmd_original
+nano fortune.sh
+[[ test? =~ \?$ ]]
