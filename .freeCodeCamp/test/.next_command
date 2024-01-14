@@ -701,3 +701,4 @@ type if
 type then
 __vsc_prompt_cmd_original
 type bash
+type psql
