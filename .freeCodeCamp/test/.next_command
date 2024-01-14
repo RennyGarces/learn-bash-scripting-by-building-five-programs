@@ -630,3 +630,4 @@ help
 help function
 clear
 nano fortune.sh
+./fortune.sh
