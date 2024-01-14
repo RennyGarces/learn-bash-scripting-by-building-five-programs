@@ -642,3 +642,5 @@ man until
 help until
 nano fortune.sh
 ./fortune.sh
+nano fortune.sh
+help [[
