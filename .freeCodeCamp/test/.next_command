@@ -640,3 +640,4 @@ clear
 __vsc_prompt_cmd_original
 man until
 help until
+nano fortune.sh
