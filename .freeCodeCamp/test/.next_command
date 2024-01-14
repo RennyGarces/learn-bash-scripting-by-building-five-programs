@@ -681,3 +681,7 @@ nano fortune.sh
 nano fortune.sh
 ./fortune.sh
 touch five.sh
+chomd x+ five.sh
+chomd +X five.sh
+chomd +x five.sh
+chmod +x five.sh
