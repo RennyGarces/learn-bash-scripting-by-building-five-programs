@@ -697,3 +697,4 @@ help type
 clear
 type echo
 type read
+type if
