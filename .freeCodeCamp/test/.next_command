@@ -685,3 +685,5 @@ chomd x+ five.sh
 chomd +X five.sh
 chomd +x five.sh
 chmod +x five.sh
+clear
+nano five.sh
